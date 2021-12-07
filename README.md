@@ -87,4 +87,4 @@ public static void main(String[] args) {
   System.out.println(intsCalc.pow(2, 10));
 }
 ```
-Вам надо написать класс `IntsCalculator`, который будет имплементировать интерфейс Ints, "под капотом" делая вычисления через класс `Calculator`.
+Вам надо написать класс `IntsCalculator`, который будет имплементировать интерфейс `Ints`, "под капотом" делая вычисления через класс `Calculator`.
